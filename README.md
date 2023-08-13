@@ -6,13 +6,16 @@
 <img src="final_product_images/home_page_1.png" width="700">
 <img src="final_product_images/home_page_2.png" width="700">
 <img src="final_product_images/home_page_3.png" width="700">
-
+<hr>
+<br>
 <h3>Prediction Page</h3>
 <img src="final_product_images/prediction_page.png" width="700">
-
+<hr>
+<br>
 <h3>Prevention Page</h3>
 <img src="final_product_images/prevention_page.png" width="700">
-
+<hr>
+<br>
 <h3>Chat Service Page</h3>
 <img src="final_product_images/chat_service_page.png" width="700">
 
